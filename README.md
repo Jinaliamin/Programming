@@ -2,7 +2,7 @@
 
 Jinali Amin
 Programming and JUNIT testing Exercises.
-*Hello*
+## What is inside git rep.
 
 * JAVA
 * JUNIT
